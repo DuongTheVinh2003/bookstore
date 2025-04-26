@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|c:\\users\\admin\\source\\repos\\thongtinsach\\thongtinsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|solutionrelative:thongtinsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8148608D-3BBD-4A4D-B385-9105E1B448C9}|BLL\\BLL.csproj|C:\\Users\\Admin\\source\\repos\\thongtinsach\\bll\\sachbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148608D-3BBD-4A4D-B385-9105E1B448C9}|BLL\\BLL.csproj|solutionrelative:bll\\sachbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A729D-2866-4090-A506-AA7CA31DA50D}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\thongtinsach\\dal\\sachdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50A729D-2866-4090-A506-AA7CA31DA50D}|DAL\\DAL.csproj|solutionrelative:dal\\sachdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C932A664-8F69-41A4-988C-8F9F18C4DD07}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\thongtinsach\\dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C932A664-8F69-41A4-988C-8F9F18C4DD07}|DTO\\DTO.csproj|solutionrelative:dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|solutionrelative:thongtinsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|c:\\users\\admin\\source\\repos\\thongtinsach\\thongtinsach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290DD39-FB8C-4E55-8118-86B04CE619FB}|thongtinsach\\thongtinsach.csproj|solutionrelative:thongtinsach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.cs",
+              "RelativeDocumentMoniker": "thongtinsach\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.cs",
+              "RelativeToolTip": "thongtinsach\\Form1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwGMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:53:16.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.cs",
+              "RelativeDocumentMoniker": "thongtinsach\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.cs [Design]",
+              "RelativeToolTip": "thongtinsach\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:58:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "thongtinsach\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\thongtinsach\\Form1.Designer.cs",
+              "RelativeToolTip": "thongtinsach\\Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:52:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SachBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\BLL\\SachBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SachBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\BLL\\SachBLL.cs",
+              "RelativeToolTip": "BLL\\SachBLL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:40:47.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SachDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\DAL\\SachDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SachDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\DAL\\SachDAL.cs",
+              "RelativeToolTip": "DAL\\SachDAL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:38:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\DTO\\SachDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SachDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\thongtinsach\\DTO\\SachDTO.cs",
+              "RelativeToolTip": "DTO\\SachDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:37:55.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

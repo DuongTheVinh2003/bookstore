@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\thongtinsach\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\thongtinsach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\thongtinsach\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\source\repos\thongtinsach\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\source\repos\thongtinsach\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\thongtinsach\BLL\bin\Debug\System.Data.SqlClient.xml
